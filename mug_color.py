@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #Problem        : Mug Color
 #Language       : Python
-#Version        : Python 2.7.8
 #by Joe Velardo
 
 from __future__ import print_function
