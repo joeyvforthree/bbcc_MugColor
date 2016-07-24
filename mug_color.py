@@ -3,8 +3,6 @@
 #Language       : Python
 #Version        : Python 2.7.8
 #by Joe Velardo
-#Input for your program will be provided from STDIN
-#Print out all output from your program to STDOUT
 
 from __future__ import print_function
 import sys
